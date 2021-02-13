@@ -38,7 +38,7 @@
  *  if the config bar is fixed, the driver does not neeed to search through
  *  all of the bars
  */
-//#define XDMA_CONFIG_BAR_NUM	1
+#define XDMA_CONFIG_BAR_NUM	1
 
 /* Switch debug printing on/off */
 #define XDMA_DEBUG 0
